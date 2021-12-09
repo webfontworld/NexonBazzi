@@ -9,7 +9,7 @@
     font-weight: normal;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/NexonBazzi/NexonBazzi.eot');
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/ㅍ/NexonBazzi.eot?#iefix') format('embedded-opentype'),
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/NexonBazzi/NexonBazzi.eot?#iefix') format('embedded-opentype'),
          url('https://cdn.jsdelivr.net/gh/webfontworld/NexonBazzi/NexonBazzi.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/webfontworld/NexonBazzi/NexonBazzi.woff') format('woff'),
          url('https://cdn.jsdelivr.net/gh/webfontworld/NexonBazzi/NexonBazzi.ttf') format("truetype");
